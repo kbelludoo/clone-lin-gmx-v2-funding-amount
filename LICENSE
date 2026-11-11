@@ -1,0 +1,6 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+This repository contains an experimental LIN clone of a GMX V2 scalar kernel.
+The upstream algorithm in gmx-io/gmx-synthetics is GPL-2.0-or-later after the
+BUSL-1.1 Change Date 2026-08-31. The LIN kernel and C11 oracle in this repo
+are original implementations of that algorithm at uint64 scale.
